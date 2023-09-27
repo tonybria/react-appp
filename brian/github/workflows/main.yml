@@ -25,4 +25,4 @@ jobs:
             with:
              branch: gh-pages   
              folder: build
-             token: ${{ secrets.TONY}}
+             token: ${{ secrets.YUJIRO}}
